@@ -1,0 +1,35 @@
+
+# ===== Xbox 游戏下载：强制直连 =====
+
+# Xbox 主机及 PC 游戏 CDN
+HOST,assets1.xboxlive.com,DIRECT
+HOST,assets2.xboxlive.com,DIRECT
+HOST,d1.xboxlive.com,DIRECT
+HOST,d2.xboxlive.com,DIRECT
+HOST,xvcf1.xboxlive.com,DIRECT
+HOST,xvcf2.xboxlive.com,DIRECT
+HOST,dlassets.xboxlive.com,DIRECT
+HOST,dlassets2.xboxlive.com,DIRECT
+HOST,dlassets-ssl.xboxlive.com,DIRECT
+
+# Xbox 中国 CDN
+HOST,assets1.xboxlive.cn,DIRECT
+HOST,assets2.xboxlive.cn,DIRECT
+HOST,d1.xboxlive.cn,DIRECT
+HOST,d2.xboxlive.cn,DIRECT
+HOST,dlassets.xboxlive.cn,DIRECT
+HOST,dlassets2.xboxlive.cn,DIRECT
+
+# Microsoft Store / Xbox App 游戏下载
+HOST-SUFFIX,dl.delivery.mp.microsoft.com,DIRECT
+HOST-SUFFIX,delivery.mp.microsoft.com,DIRECT
+
+# Windows Delivery Optimization
+HOST-SUFFIX,prod.do.dsp.mp.microsoft.com,DIRECT
+HOST-SUFFIX,windowsupdate.com,DIRECT
+HOST-SUFFIX,update.microsoft.com,DIRECT
+
+# Microsoft Store 游戏内容
+HOST,fe3.delivery.mp.microsoft.com,DIRECT
+HOST,fe3cr.delivery.mp.microsoft.com,DIRECT
+HOST,tsfe.trafficshaping.dsp.mp.microsoft.com,DIRECT
